@@ -1,6 +1,4 @@
-# Yaroslav Shobotiuk
-
-I build
+№ I build
 
 Interested in Windows internals, Python, Electron, GitHub Actions, and defensive security.
 
