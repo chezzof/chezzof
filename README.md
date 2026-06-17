@@ -15,9 +15,10 @@ and practical bug bounty research workflows.
 
 | Project | What it is | Visibility |
 |---|---|---|
-| `ultraisolator` | Desktop performance/security isolation toolkit with Python backend and Electron UI | Public |
+| [`ultraisolator`](https://github.com/chezzof/ultraisolator) | Desktop performance/security isolation toolkit with Python backend and Electron UI | Public |
 | `BUGBOUNTY` | Private research workspace for authorized security testing notes, triage, and evidence | Private |
 | `bots-gta5` | Private automation experiments and operational bot tooling | Private |
+| [`achievement-lab`](https://github.com/chezzof/achievement-lab) | Public cybersecurity learning notes and transparent workflow evidence | Public |
 
 ## Engineering style
 
@@ -37,5 +38,4 @@ Bug bounty  Product design         Developer tooling
 
 ## Contact
 
-GitHub: [chezeoff-collab](https://github.com/chezeoff-collab)
-
+GitHub: [chezzof](https://github.com/chezzof)
